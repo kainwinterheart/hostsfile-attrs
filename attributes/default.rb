@@ -1,0 +1,3 @@
+
+default[ 'hostsfile-attrs' ] = []
+
